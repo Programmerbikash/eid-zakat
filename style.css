@@ -1,0 +1,155 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#banner-part{
+    background-image: url(/images/banner2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 550px;
+    opacity: 0.8;
+    margin-bottom: 70px;
+}
+#banner-text{
+    width: 330px;
+    padding-top: 120px;
+    padding-left: 120px;
+}
+#banner-text h1{
+    color: white;
+}
+#banner-text p{
+    color: white;
+}
+
+.button{
+    background-color: #EF233C;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 700;
+}
+.flexible-container{
+    width: 100%;
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+    
+}
+.half-width h1{
+    font-size: 35px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 20px;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.half-width img{
+    width: 80%;
+}
+.depend-donation{
+    width: 100%;
+}
+#first-heading{
+    margin: 0 auto;
+    width: 33%;
+    text-align: center;
+    font-size: 35px;
+}
+#depend-paragraph{
+    margin: 0 auto;
+    width: 42%;
+    text-align: center;
+}
+.help-flex{
+    text-align: center;
+    background-color: #FEF4F5;
+    margin:0 20px;
+    padding: 20px;
+}
+.help-flex img{
+    width: 50px;
+    height: 50px;
+}
+.first-container{
+    margin: 50px 0 30px 100px;
+    width: 85%;
+}
+.second-container{
+    margin: 0 0 100px 100px;
+    width: 85%;
+}
+#box-images{
+    display: flex;
+    width: 95%;
+    margin: 0 0 100px 38px;
+}
+#box-images img{
+    width: 400px;
+    height: 500px;
+    margin-left: 20px;
+}
+.topper-part{
+    width: 45%;
+    margin: 0 auto;
+    text-align: center;
+}
+.topper-part h1{
+    font-size: 35px;
+}
+.zakat-main{
+    width: 95%;
+    display: flex;
+    margin-left: 24px;
+    margin-bottom: 100px;
+}
+.zakat-box{
+    width: 31%;
+    margin-left: 30px;
+}
+.zakat-box img{
+    width: 100%;
+}
+.zakat-box a{
+    color: #EF233C;
+    font-weight: 700;
+}
+footer{
+    background-color: #0B0D17;
+    height: 180px;
+}
+footer h1{
+    text-align: center;
+    color: #FF5959;
+    padding-top: 40px;
+    font-family: 'Berkshire Swash', cursive;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
